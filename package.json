@@ -9,13 +9,3 @@
     "express": "^4.18.2"
   }
 }
-```
-Scroll down and click **Commit changes** → **Commit changes** again.
-
----
-
-**File 2 — `server.js`**
-
-Click **Add file → Create new file** again. Name it:
-```
-server.js
